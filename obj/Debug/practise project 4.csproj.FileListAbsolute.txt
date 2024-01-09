@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\bin\Debug\practise project 4.exe.config
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\bin\Debug\practise project 4.exe
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\bin\Debug\practise project 4.pdb
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\obj\Debug\practise project 4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\obj\Debug\practise project 4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\obj\Debug\practise project 4.exe
+C:\Users\admin\Desktop\practise project 04\practise project 4\practise project 4\obj\Debug\practise project 4.pdb
